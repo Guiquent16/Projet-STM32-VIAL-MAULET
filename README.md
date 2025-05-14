@@ -1,4 +1,4 @@
-# Projet STM32 VIAL MAULET - Système d'assurance DRIVE SENTINEL
+# Projet STM32 VIAL MAULET - Système d'assurance - DRIVE SENTINEL
 
 Ce projet utilise une carte **STM32 Nucleo L152RE** et le shield **X-Nucleo-IKS01A3**
 ---
