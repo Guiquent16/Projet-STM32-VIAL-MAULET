@@ -6,7 +6,7 @@ Ce projet utilise une carte **STM32 Nucleo L152RE** et le shield **X-Nucleo-IKS0
 ##  Matériel utilisé
 
 - STM32 Nucleo L152RE
-- Capteur IKS01A3 (LIS2DW12, HTS221)
+- Capteur IKS01A3 & HTS221
 - 8 LEDs pour indication de vitesse
 
 ---
