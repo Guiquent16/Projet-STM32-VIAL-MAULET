@@ -6,14 +6,14 @@ Ce projet utilise une carte **STM32 Nucleo L152RE** et le shield **X-Nucleo-IKS0
 ##  Matériel utilisé
 
 - STM32 Nucleo L152RE
-- Capteur IKS01A3 & HTS221
+- Capteur LIS2DW12 & HTS221
 - 8 LEDs pour indication de vitesse
 
 ---
 
 ##  Fonctionnalités
 
-- Lecture de l'accélération sur l'axe X
+- Lecture de l'accélération sur l'axe Y
 - Calcul de la vitesse en m/s, cm/s et km/h
 - Résultat en valeur absolue pour éviter les vitesses négatives
 - Seuil LED : vitesse > 10 km/h
